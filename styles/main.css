@@ -1,4 +1,5 @@
 body {
+    border: solid 1px black;
     color: blue;
     background-color: rgb(185, 214, 182);
 }
@@ -6,4 +7,10 @@ body {
 article {
     border: solid 1px black;
     padding: 20px;
+    background-color: rgb(255,255,255);
+}
+
+footer {
+    border: solid 1px black;
+    background-color: rgb(255,255,255);  
 }
