@@ -13,7 +13,7 @@ body {
   }
   
   header {
-     background-image: url(http://cdn.playbuzz.com/cdn/2ec4132f-496f-4809-856c-7236e114d62e/f37fa465-4b7e-4863-86eb-3ffcce1a79f0.jpg);
+     background-image: url(http://www.bmw-carit.de/images/keyvisuals/keyvisual_open-source.jpg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     color: white;
@@ -28,7 +28,7 @@ body {
   background-image: -o-linear-gradient(rgb(132,112,255), rgb(72,61,139));
   background-image: linear-gradient(rgb(132,112,255), rgb(72,61,139));
     color: white;
-    padding: 30px 20px 0px 20px;
+    padding: 10px 0px 0px 20px;
     margin-top: 100px;
   }
   
@@ -51,8 +51,7 @@ body {
   
   footer img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+   text-align: right;
     width: 150px;
   }
   
@@ -92,7 +91,7 @@ body {
     border-radius:100px;
     line-height: 53px;
     text-align: center;
-    width: 80px;
+    width: 240px;
   }
   
   section {
