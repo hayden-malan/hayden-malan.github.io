@@ -13,18 +13,10 @@ body {
     display: block;
   }
    
-  header {
-     background-image: url(https://www.123freevectors.com/wp-content/uploads/freevector/bright-starburst-free-vector.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    padding-top: 1px;
-    width: 100%;
-  }
 
   .my-container {
     position: relative;
-    background: #5C97FF;
+    background: rgb(240, 240, 240);
     overflow: hidden;
 }
 .my-container:before {
@@ -45,6 +37,10 @@ body {
     -moz-background-size: cover;
     -webkit-background-size: cover;
     background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 1px;
+    width: 100%;
 }
 .my-container h1 {
     padding: 50px;
@@ -142,7 +138,7 @@ padding-left: 40px;
     margin: 20px;  
   }
 
-  nav 
+  .navdiv 
   ul {
       list-style-type: none;
     font-family:  normal 300 22px "Open Sans";
