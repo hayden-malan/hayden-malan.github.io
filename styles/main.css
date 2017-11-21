@@ -48,7 +48,7 @@ body {
     z-index: 2;
     position: relative;
     color: #fff;
-  
+}
   footer{
     background-image: -webkit-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
   background-image: -moz-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
