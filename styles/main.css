@@ -14,7 +14,7 @@ body {
   }
   
   header {
-     background-image: url(https://78.media.tumblr.com/b59d089064ee5d787b7833b99466113f/tumblr_ozrh3yLlJ61s1rfkto1_540.jpg);
+     background-image: url(https://www.123freevectors.com/wp-content/uploads/freevector/bright-starburst-free-vector.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -51,7 +51,7 @@ padding-left: 40px;
   }
   
   img {
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     
     clear: both;
   }
@@ -59,10 +59,11 @@ padding-left: 40px;
   footer img {
     position: relative;
    text-align:right;
-   width: 40px;
-   height: 40px;
+   width: 60px;
+   height: 60px;
    padding-top: 20px;
    padding-left: 30px;
+   padding-bottom:5px;
   }
   
   iframe {
