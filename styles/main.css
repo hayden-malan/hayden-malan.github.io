@@ -72,7 +72,7 @@ body {
   
   h2 {
     color: white;
-    margin-left:10px ;
+    margin: 0 10px 0 0 ;
     font: normal 300 45px "Open Sans";
     padding-bottom: 0;
     padding-left: 10px;
