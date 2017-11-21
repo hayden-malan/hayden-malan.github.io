@@ -6,7 +6,7 @@ body {
     background-color:white;
     font: normal 300 22px "Open Sans";
     color: #323232;
-    margin: 20px;
+    margin: 0;
     max-width: 1400px;
     min-width: 360px;
     width: 100%;
@@ -97,7 +97,7 @@ body {
   }
   
   section {
-    padding: 0;  
+    padding: 20;  
   }
 
   nav 
