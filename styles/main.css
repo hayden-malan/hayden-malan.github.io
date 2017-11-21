@@ -23,14 +23,15 @@ body {
   }
   
   footer{
-    background-image: -webkit-linear-gradient(rgb(132,112,255), rgb(72,61,139));
-  background-image: -moz-linear-gradient(rgb(132,112,255), rgb(72,61,139));
-  background-image: -o-linear-gradient(rgb(132,112,255), rgb(72,61,139));
-  background-image: linear-gradient(rgb(132,112,255), rgb(72,61,139));
+    background-image: -webkit-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
+  background-image: -moz-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
+  background-image: -o-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
+  background-image: linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
     color: white;
     padding: 10px 0px 0px 20px;
     margin-top: 100px;
     background-size:100%;
+    text-align: center;
   }
   
   header section {
@@ -51,7 +52,7 @@ body {
   }
   
   footer img {
-    display: block;
+    position: relative;
    text-align:right;
    width: 30px;
    height: 30px;
