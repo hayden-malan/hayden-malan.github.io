@@ -6,7 +6,6 @@ body {
     background-color:white;
     font: normal 300 22px "Open Sans";
     color: #323232;
-    margin: 0;
     max-width: 1400px;
     min-width: 360px;
     width: 100%;
@@ -17,7 +16,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    margin: 0;
     padding-top: 1px;
     width: 100%;
   }
