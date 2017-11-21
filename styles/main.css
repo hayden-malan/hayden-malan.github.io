@@ -33,6 +33,10 @@ body {
     background-size:100%;
     text-align: center;
   }
+
+  p{
+padding-left: 40px;
+  }
   
   header section {
     background-image: -webkit-linear-gradient(rgb(88, 63, 252), rgb(28, 2, 201));
