@@ -3,10 +3,10 @@
 
 
 body {
-    background-color:lightGrey;
+    background-color:white;
     font: normal 300 22px "Open Sans";
-    color: rgb(50, 50, 50);
-    margin: 0;
+    color: #323232;
+    margin: 20px;
     max-width: 1400px;
     min-width: 360px;
     width: 100%;
@@ -97,7 +97,34 @@ body {
   }
   
   section {
-    padding: 0 20px;
-   
-    
+    padding: 0 20px;  
   }
+
+  nav 
+  ul {
+      list-style-type: none;
+    font-family: Arial,sans-serif;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #FF5733;
+  }
+  
+  li {
+      float: left;
+    font-family: Arial,sans-serif;
+  }
+  
+  li a {
+      display: block;
+    font-family: Arial,sans-serif;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  
+  li a:hover {
+      background-color: #3498DB  ;
+  }
+  
