@@ -13,7 +13,7 @@ body {
   }
   
   header {
-     background-image: url(http://www.bmw-carit.de/images/keyvisuals/keyvisual_open-source.jpg);
+     background-image: url(https://78.media.tumblr.com/cbc038cd305f9d76b2836b26e0440286/tumblr_oz8lcxbBHb1s1rfkto3_540.jpg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     color: white;
@@ -51,8 +51,9 @@ body {
   
   footer img {
     display: block;
-   text-align: right;
-    width: 150px;
+   text-align: left;
+   width: 20px;
+   height: 20px;
   }
   
   iframe {
