@@ -13,9 +13,9 @@ body {
   }
   
   header {
-     background-image: url(https://78.media.tumblr.com/cbc038cd305f9d76b2836b26e0440286/tumblr_oz8lcxbBHb1s1rfkto3_540.jpg);
+     background-image: url(https://78.media.tumblr.com/de944e3d30cbd9f0af0643b13fe637a9/tumblr_ozqqs8xJRG1s1rfkto1_540.jpg);
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: auto;
     color: white;
     margin: 0;
     padding-top: 1px;
@@ -30,6 +30,7 @@ body {
     color: white;
     padding: 10px 0px 0px 20px;
     margin-top: 100px;
+    background-size:100%;
   }
   
   header section {
@@ -51,9 +52,9 @@ body {
   
   footer img {
     display: block;
-   text-align: left;
-   width: 20px;
-   height: 20px;
+   text-align:right;
+   width: 30px;
+   height: 30px;
   }
   
   iframe {
@@ -92,7 +93,7 @@ body {
     border-radius:100px;
     line-height: 53px;
     text-align: center;
-    width: 240px;
+    
   }
   
   section {
