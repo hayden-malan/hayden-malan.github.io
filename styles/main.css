@@ -63,7 +63,7 @@ body {
   h1 {
     padding: 80px 0 10px 20px;
     color: white;
-    font: normal 700 45px "Open Sans";
+    font: normal 400 45px "Open Sans";
     letter-spacing: .8px;
     text-shadow: 0 0 20px rgb(0,0,0);
   }
@@ -72,7 +72,7 @@ body {
     color: white;
     margin: 0;
     font: normal 300 45px "Open Sans";
-    padding-top: 20px;
+    padding-bottom: 10px;
   }
   
   h3 {
