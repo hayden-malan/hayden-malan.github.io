@@ -113,7 +113,7 @@ padding-left: 40px;
   nav 
   ul {
       list-style-type: none;
-    font-family: Arial,sans-serif;
+    font-family:  normal 300 22px "Open Sans";
       margin: 0;
       padding: 0;
       overflow: hidden;
@@ -125,12 +125,12 @@ padding-left: 40px;
   
   li {
       float: left;
-    font-family: Arial,sans-serif;
+    font-family:  normal 300 22px "Open Sans";
   }
   
   li a {
       display: block;
-    font-family: Arial,sans-serif;
+    font-family:  normal 300 22px "Open Sans";
       color: white;
       text-align: center;
       padding: 14px 16px;
