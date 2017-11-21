@@ -42,7 +42,7 @@ body {
     padding-top: 1px;
     width: 100%;
 }
-.my-container h1 {
+.my-container h1 h2{
     padding: 50px;
     text-align: center;
     z-index: 2;
