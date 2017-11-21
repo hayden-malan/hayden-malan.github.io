@@ -15,11 +15,11 @@ body {
   header {
      background-image: url(https://78.media.tumblr.com/de944e3d30cbd9f0af0643b13fe637a9/tumblr_ozqqs8xJRG1s1rfkto1_540.jpg);
     background-repeat: no-repeat;
-    background-size: stretch;
+    background-size: cover;
     color: white;
     margin: 0;
     padding-top: 1px;
-   
+    width: 100%;
   }
   
   footer{
