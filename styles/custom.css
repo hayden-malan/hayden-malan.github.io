@@ -1,11 +1,16 @@
 .two.columns{
     background-color:rgb(5,0,54);
-    width: 13.33%;
-    float: right;
 
 
 }
 
+.ten.columns{
+    background-image:url(https://cdn.pixabay.com/photo/2017/05/24/19/14/shapes-2341316_960_720.jpg);
+    background-position:cover;
+}
+
 .logo{
     width: 13.33%;
+    display:block;
+    text-align:center;
 }
