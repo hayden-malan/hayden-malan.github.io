@@ -1,7 +1,11 @@
-.two columns{
+.two.columns{
     background-color:rgb(5,0,54);
-    width: 16.66%;
+    width: 13.33%;
     float: right;
 
 
+}
+
+.logo{
+    width: 13.33%;
 }
