@@ -1,4 +1,9 @@
-html {
-    display: flex;
-    flex-wrap: wrap;
+*{
+    color:white;
+    
 }
+
+body {
+    background-repeat: no-repeat;  background-attachment: fixed;
+    background-image: url(https://www.sculpteo.com/blog/wp-content/uploads/2015/12/cover-for-ebook-article.jpg);
+  }
