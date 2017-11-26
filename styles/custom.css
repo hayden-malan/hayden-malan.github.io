@@ -1,3 +1,7 @@
 * {
     outline: 1px solid red !important;
  }
+
+ .logo {
+    max-height: 6em;
+  }
