@@ -1,7 +1,18 @@
 * {
     outline: 1px solid red !important;
+    color: white;
  }
+
+ body {
+    background-repeat: no-repeat;  background-attachment: fixed;
+    background-image: url(https://www.sculpteo.com/blog/wp-content/uploads/2015/12/cover-for-ebook-article.jpg);
+  }
 
  .logo {
     max-height: 8.56em;
+  }
+
+  h1 {
+      margin-top:4rem;
+      margin-left:2rem;
   }
