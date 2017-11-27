@@ -15,6 +15,10 @@
     max-height: 8.56em;
   }
 
+  .articleimg {
+      max-width: 10em;
+  }
+
   h1 {
       padding-top:4rem;
       padding-left:2rem;
