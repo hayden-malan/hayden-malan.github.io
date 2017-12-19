@@ -44,6 +44,6 @@
     text-decoration: bold;
 }
 
-.propercode {
-    color:black;
+code {
+    background-color: none;
 }
