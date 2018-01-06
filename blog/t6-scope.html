@@ -25,26 +25,34 @@
 
     <div class="container"> <!--for the main section, the blog article-->
         <div class="row">
-            <div class="six columns">
+            <div class="9 columns">
                 <h3>
                    What is Scope?
                 </h3>
                     <p>
-                      Scope is            
+                      In JavaScript, scope is about which parts of the program have the ability to see something. It's a like the privacy settings
+                      on your facebook posts; some things are visible to everyone, some things are visible to a restricted amount of people, and some
+                      things are visible only to you and your friends.
+                      In JavaScript there is <b>local</b> scope and <b>global</b> scope:        
                     </p>
                     <ul>
-                        <li> <b>Declaring a function:</b>> You can use () right after the word 'function' to declare a function.
-                        <li> <b>For BEDMAS:</b>> using () around certain parts of a mathematical equation to determine the order of operations
-                        <li> <b>Alternative function decleration through arrow notation:</b> () => replaces the function declaration.
+                        <li> <b>Local Scope:</b> variables that have been declared <b>inside</b> of a function will only be visible inside of that function.
+                            If you try to use those variables outside of that function, they will not be defined, and that could cause errors for you. But, in 
+                            many cases it is prefered to use local scope so that you can be specific about where your variables should and shouldn't be used,
+                            so that they never end up crossing over or getting used in the wrong place (much like your drunk facebook photos, that you would want your 
+                            pals to see, but maybe not your potential employer!) local scope is the best in these cases.
+
+                        <li> <b>Global Scope:</b> variables in your .js file that have been declared <b>outside</b> of all functions, will be visible to all functions, and also
+                            visible outside of the functions, hence the term global scope.The variable will be defined throughout the entire document and can be used anywhere in the document.
+                            Problems can arise if you are using the same variable in two different functions, but want it to have 2 different values. If you are using global scope, the 
+                            value of the variable will remain the same in both functions as it was declared in global scope. You'd have to use local scope to change the value of one of
+                            the variables if both have the same name and were declared in global scope.
+
+                        
                     </ul>
                 
             </div>
-            <div class="six columns">
-                 <h3>
-                    Other column 
-                </h3>
-                                  
-            </div>
+            
         </div>
     </div>
 
