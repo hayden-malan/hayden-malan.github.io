@@ -5,19 +5,19 @@ var question2 = document.sharkquiz.question2.value;
 var question3 = document.sharkquiz.question3.value;
 var correct = 0;
 
-    if (question1 == "Great White") {
+    if (question1 == "Whale Shark") {
         correct++;
     }
 
-    if (question2 == "Bruce") {
+    if (question2 == "Mako") {
         correct++;
     }
 
-    if (question3 == "Bruce") {
+    if (question3 == "Portuguese") {
         correct++;
     }
 
-var messages = ["Great job!", "Luke warm.", "Hopeless."];
+var messages = ["Great job!", "Luke warm.", "Oh dear."];
 var pictures = ["images/greatshark.gif", "images/lukewarmshark.gif", "images/hopelessshark.gif"];
 
 var range;
