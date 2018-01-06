@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>
+            SHARK QUIZ
+        </title>
+        <link href="styles/style.css" rel ="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <script src="scripts/script.js"></script>
+</head>
+
+<body>
+
+    <h1>A quiz for all shark lovers.</h1>
+
+    <form id = "sharkquiz" name = "sharkquiz">
+
+        <p>What is the largest known living shark species?</p>
+        <input id ="textbox" type = "text" name = "question1">
+
+        <p>Name of the shark in Jaws?</p>
+        <input type="radio" id="mc" name="question2" value="Sheldon">Sheldon<br>
+        <input type="radio" id="mc" name="question2" value="Bruce">Bruce<br>
+
+        <p>Name of the shark in Finding Nemo?</p>
+        <input type="radio" id="mc" name="question3" value="Chad">Chad<br>
+        <input type="radio" id="mc" name="question3" value="Bruce">Bruce<br>
+
+        <input id= "button" type ="button" value = "I'm finished!" onclick = "check();">
+
+    </form>
+    <div id="after_submit">
+
+        <p id="message"></p>
+        <p id="number_correct"></p>
+        <img id ="picture">
+    </div>
+
+</body>
+</html>
